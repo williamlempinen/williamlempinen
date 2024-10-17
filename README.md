@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm William Lempinen 🇫🇮
 
-<!--
-**williamlempinen/williamlempinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img alt="Initial Hello World" src="https://img.shields.io/badge/last_major_release-sep._2000-important" />
+    <img alt="Location" src="https://img.shields.io/badge/current_index-Turku-blue" />
+    <img alt="Vulnerabilities" src="https://img.shields.io/badge/vulnerabilities-high-critical" />
+    <img alt="System Uptime" src="https://img.shields.io/badge/system_uptime-caffeine_dependent-yellowgreen" />
+    <img alt="Quality" src="https://img.shields.io/badge/code_quality-mayby-success" />
+</p>
 
-Here are some ideas to get you started:
+Constantly seeking for good coding practices and interesting projects to educate myself 🕵️‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+
+- [LinkedIn](www.linkedin.com/in/william-lempinen-0b6ba625a)
+- [Email](mailto:wlempin@gmail.com)
