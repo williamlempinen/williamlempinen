@@ -3,8 +3,8 @@
 <p align="center">
     <img alt="Initial Hello World" src="https://img.shields.io/badge/last_major_release-sep._2000-important" />
     <img alt="Location" src="https://img.shields.io/badge/current_index-Turku-blue" />
-    <img alt="Vulnerabilities" src="https://img.shields.io/badge/vulnerabilities-high-critical" />
     <img alt="System Uptime" src="https://img.shields.io/badge/system_uptime-caffeine_dependent-yellowgreen" />
+    <img alt="Vulnerabilities" src="https://img.shields.io/badge/vulnerabilities-high-critical" />
     <img alt="Quality" src="https://img.shields.io/badge/code_quality-mayby-success" />
 </p>
 
