@@ -10,7 +10,7 @@
 
 Constantly seeking for good coding practices and interesting projects to educate myself 🕵️‍♂️
 
-Currently working as a research assistant at [University of Turku](https://tt.utu.fi/sweng/)
+Currently working as a research assistant at University of Turku, [Software Engineering Laboratory](https://tt.utu.fi/sweng/)
 
 ### 📫 How to reach me:
 
