@@ -12,6 +12,8 @@ Constantly seeking for good coding practices and interesting projects to educate
 
 Currently working as a research assistant at University of Turku, [Software Engineering Laboratory](https://tt.utu.fi/sweng/)
 
+Personal homapage (under construction), [williamlempinen.xyz](https://williamlempinen.xyz)
+
 ### 📫 How to reach me:
 
 - [LinkedIn](www.linkedin.com/in/william-lempinen-0b6ba625a)
