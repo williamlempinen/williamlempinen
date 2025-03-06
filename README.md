@@ -12,7 +12,7 @@ Constantly seeking for good coding practices and interesting projects to educate
 
 Currently working as a research assistant at University of Turku, [Software Engineering Laboratory](https://tt.utu.fi/sweng/)
 
-Personal homepage (under construction), [williamlempinen.xyz](https://williamlempinen.xyz)
+Personal homepage, [williamlempinen.xyz](https://williamlempinen.xyz)
 
 ### 📫 How to reach me:
 
